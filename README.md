@@ -1,0 +1,1 @@
+## Metotlar ile ilgili örnekler yapıldı. Referans verme işlemi uygulandı.
